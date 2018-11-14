@@ -5,3 +5,4 @@
 ```
 python ./TeamViewer-id-changer.py
 ```
+2. Git中全局忽略.DS_Store文件 : [https://www.jianshu.com/p/8c0d262e49a6](https://www.jianshu.com/p/8c0d262e49a6)
