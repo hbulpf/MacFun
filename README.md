@@ -13,3 +13,8 @@ python ./TeamViewer-id-changer.py
   - [termius](https://termius.com/)
   - [putty](https://formac.informer.com/putty)
   - Chrome 插件式[Secure Shell App](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo%3Futm_source%3Dchrome-app-launcher-info-dialog)
+
+
+## 优秀仓库
+
+1. [awesome-mac](https://github.com/hbulpf/awesome-mac)
