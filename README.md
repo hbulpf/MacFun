@@ -1,5 +1,6 @@
 # MacFun
-会 MacOS 中寻找到乐趣滴，嘿嘿^_^
+会在 MacOS 中寻找到乐趣滴，嘿嘿^_^
+
 ## Mac 常用工具
 1. teamviewer 12，13 破解：
 ```
@@ -14,6 +15,9 @@ python ./TeamViewer-id-changer.py
   - [putty](https://formac.informer.com/putty)
   - Chrome 插件式[Secure Shell App](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo%3Futm_source%3Dchrome-app-launcher-info-dialog)
 
+## Mac软件
+
+1. [推荐10款免费的Mac软件](推荐10款免费的Mac软件.md)
 
 ## 优秀仓库
 
