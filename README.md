@@ -1,5 +1,11 @@
 # MacFun
-会在 MacOS 中寻找到乐趣滴，嘿嘿^_^
+
+[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+[![GitHub stars](https://img.shields.io/github/stars/hbulpf/MacFun.svg?label=Stars)](https://github.com/hbulpf/MacFun)
+[![GitHub watchers](https://img.shields.io/github/watchers/hbulpf/MacFun.svg?label=Watchers)](https://github.com/hbulpf/MacFun/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/hbulpf/MacFun.svg?label=Forks)](https://github.com/hbulpf/MacFun/fork)
+
+在 MacOS 中寻找到乐趣，嘿嘿^_^
 
 ## Mac 常用工具
 1. teamviewer 12，13 破解：
@@ -22,3 +28,14 @@ python ./TeamViewer-id-changer.py
 ## 优秀仓库
 
 1. [awesome-mac](https://github.com/hbulpf/awesome-mac)
+
+
+----------------------------------------
+
+**项目规范**
+
+本文使用 [`Markdown`](https://www.markdownguide.org/basic-syntax) 编写, 排版符合[`中文技术文档写作规范`](https://github.com/hbulpf/document-style-guide)。Find Me On [**Github**](https://github.com/hbulpf/MacFun ) , [**Gitee**](https://gitee.com/sifangcloud/MacFun )
+
+**友情贡献**
+
+@[**RunAtWorld**](http://www.github.com/RunAtWorld)  &nbsp;
